@@ -1,10 +1,10 @@
 {
-    "buildVersion": 1546045517436,
+    "buildVersion": 1546049664890,
     "build": {
         "ssr": false,
-        "publicPath": "/",
-        "compress": false,
-        "cssExtract": false
+        "publicPath": "/lavas-demo-1",
+        "compress": true,
+        "cssExtract": true
     },
     "middleware": {
         "all": [],
