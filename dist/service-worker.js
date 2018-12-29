@@ -1,4 +1,4 @@
-importScripts("/lavas-demo-1/distprecache-manifest.43c466d293fc07f55aab22a455160f00.js");
+importScripts("/lavas-demo-1/distprecache-manifest.a0870845bef3ebcb8c0a6167be1d7b73.js");
 
 
         importScripts('/lavas-demo-1/diststatic/workbox-v3.6.3/workbox-sw.js');
