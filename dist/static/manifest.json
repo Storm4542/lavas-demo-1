@@ -1,9 +1,8 @@
 {
-    "start_url": "/?utm_source=homescreen",
+    "start_url": "./index.html",
     "name": "lavas-demo-1",
     "short_name": "lavas-demo-1",
-    "icons": [
-        {
+    "icons": [{
             "src": "img/icons/android-chrome-512x512.png",
             "type": "image/png",
             "sizes": "512x512"

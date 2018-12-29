@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/lavas-demo-1/diststatic/js/vendor.043d3c18.js"
   },
   {
-    "revision": "27be4897714105c19603f272de7c8231",
+    "revision": "59209ca113691c9949b37bd3602af65f",
     "url": "/lavas-demo-1/diststatic/manifest.json"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/lavas-demo-1/diststatic/js/vue.7474ef2f.js"
   },
   {
-    "revision": "0ff69c8fca81469c28f589d5fad0616e",
-    "url": "/lavas-demo-1/diststatic/img/icons/apple-touch-icon-180x180.png"
+    "revision": "3742528143340e36915adf388d64060f",
+    "url": "/lavas-demo-1/diststatic/img/icons/favicon-16x16.png"
   },
   {
     "revision": "11e479ef2ee0527a75ab",
@@ -28,43 +28,43 @@ self.__precacheManifest = [
     "url": "/lavas-demo-1/diststatic/img/icons/apple-touch-icon-76x76.png"
   },
   {
-    "revision": "efbe0aa485b3aeaceb8ead9191f0c4c0",
-    "url": "/lavas-demo-1/diststatic/img/icons/android-chrome-512x512.png"
+    "revision": "83409fb3fe88cb94d7d3df5fe97569c9",
+    "url": "/lavas-demo-1/diststatic/img/icons/apple-touch-icon-152x152.png"
   },
   {
     "revision": "7264d2ec7553bb96307af4acbe697faf",
     "url": "/lavas-demo-1/diststatic/img/icons/favicon.ico"
   },
   {
-    "revision": "88b270f232105971b301",
-    "url": "/lavas-demo-1/diststatic/js/index.88b270f2.js"
+    "revision": "1a746e296018049a4734",
+    "url": "/lavas-demo-1/diststatic/js/index.1a746e29.js"
   },
   {
-    "revision": "3742528143340e36915adf388d64060f",
-    "url": "/lavas-demo-1/diststatic/img/icons/favicon-16x16.png"
-  },
-  {
-    "revision": "83409fb3fe88cb94d7d3df5fe97569c9",
-    "url": "/lavas-demo-1/diststatic/img/icons/apple-touch-icon-152x152.png"
-  },
-  {
-    "revision": "b451e38c6ee4b03781b1019c518e7894",
-    "url": "/lavas-demo-1/diststatic/img/icons/apple-touch-icon-120x120.png"
+    "revision": "0ff69c8fca81469c28f589d5fad0616e",
+    "url": "/lavas-demo-1/diststatic/img/icons/apple-touch-icon-180x180.png"
   },
   {
     "revision": "047f3021e153c19951f86dd209904243",
     "url": "/lavas-demo-1/diststatic/img/icons/favicon-32x32.png"
   },
   {
+    "revision": "b451e38c6ee4b03781b1019c518e7894",
+    "url": "/lavas-demo-1/diststatic/img/icons/apple-touch-icon-120x120.png"
+  },
+  {
+    "revision": "efbe0aa485b3aeaceb8ead9191f0c4c0",
+    "url": "/lavas-demo-1/diststatic/img/icons/android-chrome-512x512.png"
+  },
+  {
     "revision": "b8a42c4a3b00c4f75bc636f2923eaeca",
     "url": "/lavas-demo-1/diststatic/img/icons/android-chrome-192x192.png"
   },
   {
-    "revision": "88b270f232105971b301",
+    "revision": "1a746e296018049a4734",
     "url": "/lavas-demo-1/diststatic/css/index.518c385e.css"
   },
   {
-    "revision": "c54beb00767081ac39a0be4329cca80c",
+    "revision": "68f77c692abfe61c0ed3aa6a2d19d160",
     "url": "/lavas-demo-1/distindex.html"
   },
   {
