@@ -14,7 +14,7 @@ module.exports = {
     build: {
         ssr: false,
         path: BUILD_PATH,
-        publicPath: '/lavas-demo-1',
+        publicPath: '/lavas-demo-1/dist',
         ssrCopy: isDev ? [] : [{
                 src: 'server.prod.js'
             },
