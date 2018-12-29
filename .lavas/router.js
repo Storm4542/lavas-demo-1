@@ -80,7 +80,7 @@ export const keepAlivePages = routes.filter(route => route.keepAlive || route.me
 
 export function createRouter() {
     let router = new Router({
-        mode: 'history',
+        mode: 'hash',
         base: '/',
         scrollBehavior,
         routes

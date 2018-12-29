@@ -24,7 +24,7 @@ module.exports = {
         ]
     },
     router: {
-        mode: 'history',
+        mode: 'hash',
         base: '/',
         pageTransition: {
             type: 'fade',
